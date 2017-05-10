@@ -1,5 +1,5 @@
 module DockerCompose
   def self.version
-    "1.0.0"
+    "1.1.5"
   end
 end
